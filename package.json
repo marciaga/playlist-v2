@@ -80,7 +80,7 @@
     "moment": "^2.17.1",
     "moment-timezone": "^0.5.13",
     "mongodb": "^2.2.24",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "nodemailer": "^4.4.0",
     "nodemailer-ses-transport": "^1.5.1",
     "normalize-scss": "^6.0.0",
