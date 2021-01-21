@@ -99,7 +99,7 @@
     "redux-thunk": "^2.2.0",
     "scooter": "^4.0.0",
     "shortid": "^2.2.8",
-    "socket.io": "^1.7.2",
+    "socket.io": "^2.4.0",
     "vision": "^4.1.0",
     "visionary": "^6.0.1",
     "webpack": "^2.2.1",
